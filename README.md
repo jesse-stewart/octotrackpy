@@ -1,3 +1,4 @@
+```
 █▀▀▀█ █▀▀█ ▀▀█▀▀ █▀▀▀█ █▀▀█ █  █ █▀▀▀█ █▄  █ ▀█▀ █▀▀█ 
 █   █ █      █   █   █ █▄▄█ █▀▀█ █   █ █ █ █  █  █    
 █▄▄▄█ █▄▄█   █   █▄▄▄█ █    █  █ █▄▄▄█ █  ▀█ ▄█▄ █▄▄█ 
@@ -6,6 +7,7 @@
 █▄█ █ █   █▀█ █▄█ █▄▀ █ █▄█   █▀▀ █▄▄ █▀█  █  ██▄ █▀▄ 
 
 v0.1 Alpha
+```
 
 This is an 8 Track audio player written in Python for the [HifiBerry DAC8](https://www.hifiberry.com/shop/boards/hifiberry-dac8x/). I don't write Python often, so this is not very good and it barely works.
 
